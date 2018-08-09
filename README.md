@@ -1,4 +1,4 @@
-[A to Alpha]
+A to Alpha
 ========
 
 ## Description
